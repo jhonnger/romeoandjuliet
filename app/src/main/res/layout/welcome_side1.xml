@@ -3,13 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/bg_screen1">
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_centerInParent="true"
-        android:scaleType="centerCrop"
-        android:src="@drawable/map_icon"
-        android:contentDescription="@string/content_description_logo_ps"/>
+
 
     <LinearLayout
         android:layout_width="wrap_content"
